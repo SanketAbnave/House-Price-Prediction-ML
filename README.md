@@ -78,8 +78,4 @@ This project aims to predict house prices using machine learning techniques base
 - Hyperparameter tuning
 - Deployment using Streamlit
 
----
 
-## 👨‍💻 Author
-
-Sanket Abnave
